@@ -28,7 +28,7 @@ git clone https://github.com/SimonBao/bookmark_challenge.git
 
 <h2> Authors </h2>
 
-Simon Bao
+Simon Bao,
 Anjana Pathmanabhan
 
 <h3> Legal Details </h3>
